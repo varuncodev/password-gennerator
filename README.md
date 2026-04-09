@@ -2,7 +2,7 @@
 
 A sleek, dark-themed password generator built with React. Features a glassmorphic 3D UI, real-time strength analysis, and fine-grained character set controls.
 
-![Vault Key Preview](./assets/Screenshot 20(2).png)
+![Vault Key Preview](/image.png)
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-compatible-646CFF?style=flat&logo=vite&logoColor=white)
